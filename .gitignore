@@ -1,0 +1,4 @@
+.idea/
+client
+private_key.pem
+public_key.pem
